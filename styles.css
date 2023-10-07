@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.card{
+background-color:whitesmoke;
+	padding:20px;
+	box-shadow:2px 2px 8px 6px black;
+	width:300px;
+	align-items:center;
+	
+}
+img{
+	width:200px;
+	height:150px;
+}
+button{
+	background-color:lightcoral;
+	height:50px;
+	width:90px;
+	border:none;
+	border-radius:5px;
+	color:white;
+}
